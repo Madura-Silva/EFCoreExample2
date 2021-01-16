@@ -28,7 +28,6 @@
   <ItemGroup>
     <ProjectReference Include="..\CoreSample.Infrastructure\CoreSample.Infrastructure.csproj" />
     <ProjectReference Include="..\CoreSample.Service\CoreSample.Service.csproj" />
-    <ProjectReference Include="..\CoreSample.Variables\CoreSample.Variables.csproj" />
   </ItemGroup>
 
 
