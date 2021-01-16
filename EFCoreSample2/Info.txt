@@ -1,0 +1,16 @@
+Securing your .NET Core 3+ API using Identity
+https://medium.com/swlh/securing-your-net-core-3-api-using-identity-93d6426d6311
+
+API Versioning : 
+https://codingfreaks.de/dotnet-core-api-versioning/
+https://www.meziantou.net/versioning-an-asp-net-core-api.htm
+
+
+Controllers and Methods Authorization
+https://josef.codes/asp-net-core-protect-your-api-with-api-keys/
+
+Code sample
+https://github.com/Elfocrash/Youtube.AspNetCoreTutorial/tree/master/Tweetbook
+
+Setup Identity server as a fresh project using quick start template
+https://identityserver4.readthedocs.io/en/latest/quickstarts/0_overview.html

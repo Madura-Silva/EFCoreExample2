@@ -1,0 +1,9 @@
+2021-01-16T21:19:05.0497289+11:00 [INF] (/1042-PC-011/1) Application Starting up
+2021-01-16T21:19:09.5431247+11:00 [WRN] (/1042-PC-011/5) Failed to determine the https port for redirect.
+2021-01-16T21:20:06.8465661+11:00 [INF] (/1042-PC-011/8) Requested all Customers
+2021-01-16T21:20:08.9591015+11:00 [INF] (/1042-PC-011/6) HTTP "GET" "/api/v1.0/customer" responded 200 in 2355.2505 ms
+2021-01-16T21:38:26.8578407+11:00 [INF] (/1042-PC-011/29) HTTP "GET" "/api/v2.0/customer" responded 401 in 77138.8823 ms
+2021-01-16T22:02:03.8939153+11:00 [INF] (/1042-PC-011/1) Application Starting up
+2021-01-16T22:02:07.6971689+11:00 [WRN] (/1042-PC-011/5) Failed to determine the https port for redirect.
+2021-01-16T22:02:29.4825012+11:00 [INF] (/1042-PC-011/12) Requested all Customers
+2021-01-16T22:02:31.7252922+11:00 [INF] (/1042-PC-011/15) HTTP "GET" "/api/v1.0/customer" responded 200 in 2531.7524 ms
