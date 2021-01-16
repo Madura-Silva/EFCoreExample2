@@ -2,7 +2,6 @@
 using AutofacSerilogIntegration;
 using CoreSample.Infrastructure.Settings;
 using CoreSample.Service;
-using CoreSample.Variables;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
